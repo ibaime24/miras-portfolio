@@ -9,6 +9,7 @@ export default defineConfig({
       input: {
         main: at("index.html"),
         work: at("work/index.html"),
+        gtm: at("work/gtm/index.html"),
       },
     },
   },
