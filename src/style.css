@@ -169,6 +169,10 @@ html:has(.poster) {
   color: var(--muted);
 }
 
+.row-cont {
+  padding-top: 0;
+}
+
 /* the image stack */
 
 .stack {
@@ -204,19 +208,19 @@ html:has(.poster) {
   letter-spacing: -0.01em;
 }
 
-.shot-queue {
+.shot-elf {
   background: linear-gradient(128deg, #e2623f 0%, #d9482c 48%, #a83726 100%);
 }
 
-.shot-form {
+.shot-doorman {
   background: linear-gradient(128deg, #6f7f8c 0%, #46545f 55%, #2b353d 100%);
 }
 
-.shot-market {
+.shot-hive {
   background: linear-gradient(128deg, #d9482c 0%, #c2643c 45%, #8a6b4f 100%);
 }
 
-.shot-transit {
+.shot-gtm {
   background: linear-gradient(128deg, #4a5a63 0%, #7d6a5c 60%, #b0704d 100%);
 }
 
